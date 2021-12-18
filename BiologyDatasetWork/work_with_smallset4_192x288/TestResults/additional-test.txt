@@ -1,0 +1,14 @@
+Galapos:
+1- Galapos4, Galapos15
+2- Galapos25, Galapos30, Galapos34
+
+
+Foz do Arelho:
+1- FozDoArelho4, FozDoArelho26, FozDoArelho54
+2- FozDoArelho65, FozDoArelho71
+
+
+Samarra:
+1- Samarra1, Samarra4, Samarra29
+2- Samarra60, Samarra67-68, Samarra77
+3- Samarra112, Samarra119
