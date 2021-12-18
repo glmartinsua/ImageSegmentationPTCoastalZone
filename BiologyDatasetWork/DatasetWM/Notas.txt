@@ -1,0 +1,24 @@
+smallset1 : sset1
+- Duas imagens segmentadas (FozDoArelho65, Galapos1)
+- Patches de 204x307 (total de 512 patches)
+
+
+smallset2 : sset2
+- Mesmas características que sset1
+- Removidas imagens para equilibrar classes
+- Removidas imagens por possiveis ambiguidades
+
+
+smallset3: sset3
+- Tres imagens segmentadas de Galapos (Galapos1, Galapos18, Galapos19)
+- Divididas com overlap de 0.20
+- Patches de 204x307
+- Total de 1200 patches
+
+
+smallset4: sset4
+- Quatro imagens segmentadas de Galapos (Galapos1, Galapos18, Galapos19, Galapos36)
+- Divididas com overlap de 0.20
+- Patches de 204x307
+- Total de 1600 patches
+- Subset final (16/06/2021)

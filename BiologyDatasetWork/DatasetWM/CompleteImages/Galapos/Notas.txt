@@ -1,0 +1,5 @@
+Treino:
+Galapos1, Galapos18, Galapos19, Galapos36
+
+Teste:
+Galapos11, Galapos6, Galapos43
