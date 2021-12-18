@@ -1,0 +1,3 @@
+Background - 0  (Includes fog and objects not important to segment)
+Water - 1
+Mussels - 2

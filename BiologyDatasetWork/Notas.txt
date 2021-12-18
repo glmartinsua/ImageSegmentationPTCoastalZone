@@ -1,0 +1,9 @@
+smallset4 -> Final set
+
+
+Tipos de Ficheiros:
+
+- modelfit: ficheiro que treina e guarda o modelo.
+- loadmodel: ficheiro que faz load ao model para verificar resultados em test set.
+- largepredict: ficheiro que faz load do modelo e testa a previsao de uma imagem fornecida.
+- largeevaluate: ficheiro que faz load do modelo e testa e verifica resultados numa imagem + mascara fornecida.
